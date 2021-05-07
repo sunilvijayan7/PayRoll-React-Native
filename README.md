@@ -28,6 +28,10 @@
 <li>Employee Management</li>
 <li>Define Hierarchy</li>
 <li>Employee Leave Management</li>
+<li>Admin View for Total attendence</li>
+<li>Salary Calculation based on Tax- UAE Region</li>
+<li>Auto Payroll Processing once salary processed</li>
+<li>Payment Gateway Integration</li>
 <li>Apply Leaves</li>
 <li>Manager Approve or Reject Leaves</li>
 <li>SMS/Email To Manager</li>
