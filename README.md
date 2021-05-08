@@ -1,7 +1,7 @@
 # Payroll | React-Native | Firebase | CRUD
 
 <h1 align="left"> :blush: :blush: :blush: Payroll App made for IOS and Android in | React-Native | Firebase | CRUD</h1>
-<h3 align="left">A simple payroll application made in react-native,firebase for companies</h3>
+<h3 align="left">A simple payroll application made in react-native,firebase for software companies, schools, goverment offices and other industries</h3>
 <h4 align="left">The application has lot of features like..</h4>
 <table>
 <th><h3>Core Features</h3></th>
